@@ -1,0 +1,10 @@
+/*
+   InfoPlist.strings
+   NewsApp
+
+   Created by Nurmat Junusov on 15/10/21.
+   Copyright (c) 2025 NewsApp Media.. All rights reserved.
+*/
+//NSPhotoLibraryUsageDescription = "Нужны права, чтобы сохранить видео на Вашем телефоне";
+NSPhotoLibraryAddUsageDescription = "Нужны права, чтобы сохранить выбранные вами фото/видео на Вашем телефоне";
+NSCameraUsageDescription = "Чтобы сделать снимок для нового фото профиля нужен доступ к камере телефона. Но если уже есть подходящая фотография, то выберите другой пункт «Открыть галерею»";

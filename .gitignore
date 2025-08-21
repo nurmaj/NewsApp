@@ -1,0 +1,57 @@
+## Build generated
+build/
+DerivedData/
+Build/
+builds/
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xcuserstate
+*.xcuserdatad
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+# Add this if you are using Swift Package Manager
+.swift-version
+Package.resolved
+Package.swift.lock
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# if you must, uncomment the next line.
+# Pods/
+
+# Carthage
+#
+# Add this if you are using Carthage (uncomment the lines)
+# Carthage/Checkouts
+# Carthage/Build
+
+# Fastlane
+#
+# Add this if you are using Fastlane
+# fastlane/report.xml
+# fastlane/Preview.html
+# fastlane/screenshots
+# fastlane/test_output
+
+# App Store Connect (formerly iTunes Connect)
+.itmsp/

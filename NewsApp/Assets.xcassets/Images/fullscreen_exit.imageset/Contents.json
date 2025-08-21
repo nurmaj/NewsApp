@@ -1,0 +1,27 @@
+{
+    "images": [
+        {
+            "filename": "fullscreen_exit_1x.png",
+            "idiom": "universal",
+            "scale": "1x",
+            "size": "48x48"
+        },
+        {
+            "filename": "fullscreen_exit_2x.png",
+            "idiom": "universal",
+            "scale": "2x",
+            "size": "48x48"
+        },
+        {
+            "filename": "fullscreen_exit_3x.png",
+            "idiom": "universal",
+            "scale": "3x",
+            "size": "48x48"
+        }
+    ],
+    "info": {
+        "author": "xcode",
+        "template-rendering-intent": "template",
+        "version": 1
+    }
+}
