@@ -9,16 +9,15 @@
 ## 🌟 Features
 
 - **Secure Authorization**
-  - Sign-in/Sign-up with email & social providers
-  - Password recovery workflow
-  - Biometric authentication support
+  - Sign-in/Sign-up with email
+  - Password recovery feature
 
 - **News Experience**
   - Infinite-scrolling news feed with pull-to-refresh
   - Article detail screen supporting:
     - Embedded images with pinch-to-zoom
     - Native video players
-    - Social media post embeddings (Twitter/Instagram)
+    - Social media post embeddings (Youtube/Instagram etc)
   - Dedicated full-screen image viewer
 
 - **Monetization System**
